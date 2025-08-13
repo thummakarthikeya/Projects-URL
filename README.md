@@ -11,3 +11,5 @@
 ->https://thummakarthikeya.github.io/Testing/
 
 ->https://thummakarthikeya.github.io/Resume/
+
+->https://thummakarthikeya.github.io/Weather-report/
