@@ -14,4 +14,10 @@
 
 ->https://thummakarthikeya.github.io/Weather-report/
 
+---> Netlify <---
+
 ->https://thummakarthikeyagallery.netlify.app/
+
+->https://punishtheculprit.netlify.app/
+
+->https://joyful-raindrop-795814.netlify.app/
