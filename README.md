@@ -13,3 +13,5 @@
 ->https://thummakarthikeya.github.io/Resume/
 
 ->https://thummakarthikeya.github.io/Weather-report/
+
+->https://thummakarthikeyagallery.netlify.app/
