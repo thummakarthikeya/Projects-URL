@@ -26,4 +26,7 @@
 
 
 ---> English Certificate <---
-https://cert.efset.org/en/B1Tf49
+
+->https://cert.efset.org/en/B1Tf49
+
+->https://www.efset.org/4-skill/launch/
